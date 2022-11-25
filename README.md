@@ -1,4 +1,4 @@
-# Next Markdown Blog
+# NextJS Markdown Blog
 
 Simple static blog using markdown and Next.js
 
