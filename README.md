@@ -12,6 +12,6 @@ npm install
 # Run dev server
 npm run dev
 
-# Build for prod and export static website
+# Build for production and export static website
 npm run build
 ```
